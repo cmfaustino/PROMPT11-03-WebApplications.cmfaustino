@@ -1,0 +1,88 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="fillButton" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="Create`0" priority="0" />
+      <Item value="newMovie" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="movie" priority="0" />
+      <Item value="_moviesRepository" priority="0" />
+      <Item value="title" priority="1" />
+      <Item value="TheIMDbAPI`0" priority="0" />
+      <Item value="ModelState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mod03_ChelasMovies.DomainModel.Movie">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mod03_ChelasMovies.DomainModel.Services.IMoviesService">
+      <Item value="Search`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mod03_ChelasMovies.RepImpl.TheIMDbAPI">
+      <Item value="SearchByTitle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Delete.cshtml" caret="0" fromTop="0" />
+      <File id="DBA4B8AD-44DB-4928-A3F1-10E520CA669F/f:Global.asax.cs" caret="312" fromTop="11" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Edit.cshtml" caret="211" fromTop="8" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:_FooterCreate.cshtml" caret="0" fromTop="0" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:_ButtonCreate.cshtml" caret="84" fromTop="3" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesImpl/f:InMemoryMoviesService.cs" caret="4206" fromTop="13" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesImpl/f:EFMoviesService.cs" caret="1563" fromTop="13" />
+      <File id="0DA7D742-6DA6-4998-B64F-9D27EF142E0C/f:TheIMDbAPI.cs" caret="0" fromTop="0" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:Services/f:IMoviesService.cs" caret="411" fromTop="13" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesRepositoryInterfaces/f:IMoviesRepository.cs" caret="350" fromTop="7" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesImpl/f:RepositoryMoviesService.cs" caret="1703" fromTop="9" />
+      <File id="0DA7D742-6DA6-4998-B64F-9D27EF142E0C/f:EFIMDBAPIMoviesRepository.cs" caret="588" fromTop="11" />
+      <File id="D1F54503-1D69-47BD-90E1-4F5353E1BDF6/f:IoC.cs" caret="1536" fromTop="12" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Details.cshtml" caret="949" fromTop="12" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:_CreateFillEdit.cshtml" caret="0" fromTop="0" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Create.cshtml" caret="188" fromTop="8" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1346" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Edit.cshtml" caret="207" fromTop="8" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Create.cshtml" caret="217" fromTop="8" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="5963" fromTop="20" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="5963" fromTop="6" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1694" fromTop="20" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:_ButtonCreate.cshtml" caret="84" fromTop="3" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1076" fromTop="5" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1694" fromTop="4" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1140" fromTop="3" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="2572" fromTop="8" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="4172" fromTop="11" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1664" fromTop="13" />
+      <File id="0DA7D742-6DA6-4998-B64F-9D27EF142E0C/f:EFIMDBAPIMoviesRepository.cs" caret="610" fromTop="11" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesImpl/f:RepositoryMoviesService.cs" caret="1678" fromTop="9" />
+      <File id="0DA7D742-6DA6-4998-B64F-9D27EF142E0C/f:EFIMDBAPIMoviesRepository.cs" caret="588" fromTop="11" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesRepositoryInterfaces/f:IMoviesRepository.cs" caret="350" fromTop="7" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1346" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

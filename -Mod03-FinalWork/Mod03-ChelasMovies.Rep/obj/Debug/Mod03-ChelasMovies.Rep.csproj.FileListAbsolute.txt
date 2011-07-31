@@ -1,0 +1,7 @@
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\bin\Debug\Mod03-ChelasMovies.Rep.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\bin\Debug\Mod03-ChelasMovies.Rep.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\bin\Debug\EntityFramework.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\bin\Debug\EntityFramework.xml
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\obj\Debug\Mod03-ChelasMovies.Rep.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.Rep\obj\Debug\Mod03-ChelasMovies.Rep.pdb

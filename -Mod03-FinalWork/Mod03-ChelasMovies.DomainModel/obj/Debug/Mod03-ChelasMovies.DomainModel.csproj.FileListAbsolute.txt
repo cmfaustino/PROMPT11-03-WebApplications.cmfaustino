@@ -1,0 +1,13 @@
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\Mod03-ChelasMovies.DomainModel.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\Mod03-ChelasMovies.DomainModel.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\EntityFramework.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\Mod03-ChelasMovies.Rep.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\StructureMap.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\WebActivator.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\Mod03-ChelasMovies.Rep.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\EntityFramework.xml
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\StructureMap.xml
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\bin\Debug\WebActivator.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\obj\Debug\Mod03-ChelasMovies.DomainModel.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Mod03-FinalWork\Mod03-ChelasMovies.DomainModel\obj\Debug\Mod03-ChelasMovies.DomainModel.pdb

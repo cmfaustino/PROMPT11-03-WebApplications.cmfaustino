@@ -1,0 +1,7 @@
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\bin\Mod03-WebApplications.ThumbsAndWatermarking.WebApp.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\bin\Mod03-WebApplications.ThumbsAndWatermarking.WebApp.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\bin\Mod03-WebApplications.ThumbsAndWatermarking.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\bin\Mod03-WebApplications.ThumbsAndWatermarking.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\obj\Debug\Mod03-WebApplications.ThumbsAndWatermarking.WebApp.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.HttpPipelineWebApp\obj\Debug\Mod03-WebApplications.ThumbsAndWatermarking.WebApp.pdb

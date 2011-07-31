@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata schemaVersion="2">
+    <id>Mod3-UsingNUnitWithNuget</id>
+    <version>1.0.0.0</version>
+    <authors>Eu mesmo</authors>
+    <owners>Eu também</owners>
+    <licenseUrl>https://github.com/ninject/ninject.web.mvc/raw/master/mvc3/LICENSE.txt</licenseUrl>
+    <projectUrl>http://www.ninject.org</projectUrl>
+    <iconUrl>https://github.com/ninject/ninject/raw/master/logos/Ninject-Logo32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>My wonderfull project description</description>
+    <summary>My wonderfull project summary</summary>
+    <language>en-US</language>
+    <tags>SLB Benfica</tags>
+    <dependencies>
+      <dependency id="Ninject" version="[2.2.0.0, 2.3.0.0)" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.Web.Infrastructure" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

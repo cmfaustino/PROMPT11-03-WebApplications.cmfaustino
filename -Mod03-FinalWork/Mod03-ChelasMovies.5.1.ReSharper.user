@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:Create.cshtml" caret="0" fromTop="0" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Views/d:Movies/f:_CreateFillEdit.cshtml" caret="344" fromTop="8" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:Services/f:IMoviesService.cs" caret="130" fromTop="2" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesImpl/f:RepositoryMoviesService.cs" caret="1834" fromTop="9" />
+      <File id="1C039CE6-EB9A-4748-BF01-B8B371443591/f:IRepository.cs" caret="906" fromTop="0" />
+      <File id="208B1EAA-EBE5-4202-891D-3D32A0DAE1E3/d:ServicesRepositoryInterfaces/f:IMoviesRepository.cs" caret="305" fromTop="7" />
+      <File id="0DA7D742-6DA6-4998-B64F-9D27EF142E0C/f:EFIMDBAPIMoviesRepository.cs" caret="566" fromTop="12" />
+      <File id="0DA7D742-6DA6-4998-B64F-9D27EF142E0C/f:TheIMDbAPI.cs" caret="343" fromTop="10" />
+      <File id="D1F54503-1D69-47BD-90E1-4F5353E1BDF6/f:IoC.cs" caret="1404" fromTop="13" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1364" fromTop="46" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="1310" fromTop="6" />
+      <File id="10D2759C-2468-4902-BEBF-2882F144B714/d:Controllers/f:MoviesController.cs" caret="2218" fromTop="10" />
+      <File id="D1F54503-1D69-47BD-90E1-4F5353E1BDF6/f:IoC.cs" caret="1404" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,104 @@
+﻿@model Mod03_ChelasMovies.DomainModel.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Movie</legend>
+
+    <div class="display-label">Title</div>
+    <div class="display-field">@Model.Title</div>
+
+    <div class="display-label">Year</div>
+    <div class="display-field">@Model.Year</div>
+
+    <div class="display-label">Genre</div>
+    <div class="display-field">@Model.Genre</div>
+
+    <div class="display-label">Director</div>
+    <div class="display-field">@Model.Director</div>
+
+    <div class="display-label">Actors</div>
+    <div class="display-field">@Model.Actors</div>
+
+    <div class="display-label">Image</div>
+    <img src="@Model.Image" width="100" alt="" />
+    <!--div class="display-field">@Model.Image</div-->
+
+    <div class="display-label">Runtime</div>
+    <div class="display-field">@Model.Runtime</div>
+</fieldset>
+@Html.Partial("Comments", Model.Comments)     
+@Html.ActionLink("Add Comment", "CreateComment", new { movieId=Model.ID })
+        @Html.ActionLink("Editar Filme", "Edit", new { id=Model.ID })
+        @Html.ActionLink("Apagar Registo de Filme", "Delete", new { id=Model.ID })
+<!--
+            <img src="@Model.Image" width="150" alt="" />
+          <div>Css Resized (300xauto)</div>
+          <img style="width: 300px; height: auto" src="images/uwwp 01.jpg"  />
+          <div>Css Resized (autox300)</div>
+          <img style="height: 300px;width: auto" src="images/uwwp 02.jpg"  />
+-->
+<!--
+        private static String ImageStoreLocation
+        {
+            get
+            {
+                return "~/images/";
+            }
+        }
+-->
+<!--
+        public Image GetImage(string imageId, HttpContext ctx)
+        {
+            string filesDir = ctx.Server.MapPath(ImageStoreLocation);
+            string filename = (from file in Directory.GetFiles(filesDir)
+                               where file.Contains(imageId)
+                               select file).First();
+            return Image.FromFile(filename);
+        }
+-->
+<!--
+        private Image GenerateThumbnail(Image img) 
+        {
+            int sourceWidth = img.Width;
+            int sourceHeight = img.Height;
+
+            int destWidth = _wmHandlerArguments.Width;
+            int destHeight = _wmHandlerArguments.Height;
+
+            float imageProportion = (float)img.Width / img.Height;
+            if (imageProportion > 1) 
+            {
+                // Image is landscape. Width remains. Height must be changed proportionally
+                destHeight = (int)(_wmHandlerArguments.Width / imageProportion);
+            }
+            else 
+            {
+                // Image is portrait. Height remains. Width must be changed proportionally
+                destWidth = (int)(_wmHandlerArguments.Height * imageProportion);
+            }
+
+            Bitmap outBmp = new Bitmap(destWidth, destHeight, img.PixelFormat);
+            outBmp.SetResolution(img.HorizontalResolution, img.VerticalResolution);
+
+            using (Graphics graphicsPhoto = Graphics.FromImage(outBmp)) 
+            {
+                graphicsPhoto.InterpolationMode = InterpolationMode.HighQualityBicubic;
+                graphicsPhoto.DrawImage(
+                                  img,
+                                  new Rectangle(0, 0, destWidth, destHeight),
+                                  new Rectangle(0, 0, sourceWidth, sourceHeight),
+                                  GraphicsUnit.Pixel);
+                img.Dispose();
+                return outBmp;
+            }
+        }
+-->
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

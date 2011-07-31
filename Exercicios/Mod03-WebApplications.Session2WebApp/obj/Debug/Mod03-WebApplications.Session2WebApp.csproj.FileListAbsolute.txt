@@ -1,0 +1,5 @@
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.Session2WebApp\bin\Mod03-WebApplications.Session2WebApp.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.Session2WebApp\bin\Mod03-WebApplications.Session2WebApp.pdb
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.Session2WebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.Session2WebApp\obj\Debug\Mod03-WebApplications.Session2WebApp.dll
+C:\z_PROMPT\PROMPT\uc03\repos\PROMPT11-03-WebApplications.cmfaustino\Exercicios\Mod03-WebApplications.Session2WebApp\obj\Debug\Mod03-WebApplications.Session2WebApp.pdb

@@ -1,0 +1,10 @@
+﻿@model Mod03_ChelasMovies.DomainModel.Movie
+
+@{
+    ViewBag.Title = "Create";
+    ViewBag.PartialViewButton = "_ButtonCreate"; // alteracao: indicacao de sub-sub-ficheiro
+    ViewBag.PartialViewFooter = "_FooterCreate"; // alteracao: indicacao de sub-sub-ficheiro
+}
+
+@Html.Partial("_CreateFillEdit")
+<!-- alteracao: conteudo movido para ficheiro comum -->
